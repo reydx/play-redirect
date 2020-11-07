@@ -132,3 +132,9 @@ dmypy.json
 # self
 .idea/
 index.html
+.ebignore
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
